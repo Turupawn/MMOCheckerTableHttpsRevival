@@ -1,0 +1,2422 @@
+
+> phaser-multiplayer-game@1.0.0 start /root/chesstest
+> node .
+
+info: socket.io started
+
+> phaser-multiplayer-game@1.0.0 start /root/chesstest
+> node .
+
+info: socket.io started
+info: handshake authorized MFcmbqx8mcItxaosWldT
+info: handshake authorized nov29beFQceEuuWlWldU
+2 Jan 08:00:47 - New player has connected: MFcmbqx8mcItxaosWldT
+2 Jan 08:00:48 - New player has connected: nov29beFQceEuuWlWldU
+info: handshake authorized YKhSgG11AtcE_Tb9WldV
+2 Jan 08:01:01 - New player has connected: YKhSgG11AtcE_Tb9WldV
+2 Jan 08:01:01 - Player not found: YKhSgG11AtcE_Tb9WldV
+2 Jan 08:01:01 - Player not found: YKhSgG11AtcE_Tb9WldV
+2 Jan 08:01:01 - Player not found: YKhSgG11AtcE_Tb9WldV
+2 Jan 08:01:01 - Player not found: YKhSgG11AtcE_Tb9WldV
+2 Jan 08:01:01 - Player not found: YKhSgG11AtcE_Tb9WldV
+2 Jan 08:01:01 - Player not found: YKhSgG11AtcE_Tb9WldV
+2 Jan 08:01:01 - Player not found: YKhSgG11AtcE_Tb9WldV
+2 Jan 08:01:01 - Player not found: YKhSgG11AtcE_Tb9WldV
+2 Jan 08:01:01 - Player not found: YKhSgG11AtcE_Tb9WldV
+2 Jan 08:01:01 - Player not found: YKhSgG11AtcE_Tb9WldV
+info: transport end (undefined)
+2 Jan 08:01:02 - Player has disconnected: YKhSgG11AtcE_Tb9WldV
+info: handshake authorized SO0dIlAkmiKZroNvWldW
+2 Jan 08:01:03 - New player has connected: SO0dIlAkmiKZroNvWldW
+2 Jan 08:01:03 - Player not found: SO0dIlAkmiKZroNvWldW
+2 Jan 08:01:03 - Player not found: SO0dIlAkmiKZroNvWldW
+2 Jan 08:01:03 - Player not found: SO0dIlAkmiKZroNvWldW
+2 Jan 08:01:03 - Player not found: SO0dIlAkmiKZroNvWldW
+2 Jan 08:01:03 - Player not found: SO0dIlAkmiKZroNvWldW
+2 Jan 08:01:03 - Player not found: SO0dIlAkmiKZroNvWldW
+2 Jan 08:01:03 - Player not found: SO0dIlAkmiKZroNvWldW
+2 Jan 08:01:03 - Player not found: SO0dIlAkmiKZroNvWldW
+2 Jan 08:01:03 - Player not found: SO0dIlAkmiKZroNvWldW
+2 Jan 08:01:03 - Player not found: SO0dIlAkmiKZroNvWldW
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 08:01:44 - Player has disconnected: SO0dIlAkmiKZroNvWldW
+info: handshake authorized EfYVO92VqXHQczGUWldX
+2 Jan 08:01:45 - New player has connected: EfYVO92VqXHQczGUWldX
+2 Jan 08:01:45 - Player not found: EfYVO92VqXHQczGUWldX
+2 Jan 08:01:45 - Player not found: EfYVO92VqXHQczGUWldX
+2 Jan 08:01:45 - Player not found: EfYVO92VqXHQczGUWldX
+2 Jan 08:01:45 - Player not found: EfYVO92VqXHQczGUWldX
+2 Jan 08:01:45 - Player not found: EfYVO92VqXHQczGUWldX
+2 Jan 08:01:45 - Player not found: EfYVO92VqXHQczGUWldX
+2 Jan 08:01:45 - Player not found: EfYVO92VqXHQczGUWldX
+2 Jan 08:01:45 - Player not found: EfYVO92VqXHQczGUWldX
+2 Jan 08:01:45 - Player not found: EfYVO92VqXHQczGUWldX
+2 Jan 08:01:45 - Player not found: EfYVO92VqXHQczGUWldX
+2 Jan 08:01:45 - Player not found: EfYVO92VqXHQczGUWldX
+2 Jan 08:01:45 - Player not found: EfYVO92VqXHQczGUWldX
+info: handshake authorized AAiOZUbGhxebCBxSWldY
+2 Jan 08:01:52 - New player has connected: AAiOZUbGhxebCBxSWldY
+2 Jan 08:01:52 - Player not found: AAiOZUbGhxebCBxSWldY
+2 Jan 08:01:52 - Player not found: AAiOZUbGhxebCBxSWldY
+2 Jan 08:01:52 - Player not found: AAiOZUbGhxebCBxSWldY
+2 Jan 08:01:52 - Player not found: AAiOZUbGhxebCBxSWldY
+2 Jan 08:01:52 - Player not found: AAiOZUbGhxebCBxSWldY
+2 Jan 08:01:52 - Player not found: AAiOZUbGhxebCBxSWldY
+2 Jan 08:01:52 - Player not found: AAiOZUbGhxebCBxSWldY
+2 Jan 08:01:52 - Player not found: AAiOZUbGhxebCBxSWldY
+2 Jan 08:01:52 - Player not found: AAiOZUbGhxebCBxSWldY
+2 Jan 08:01:52 - Player not found: AAiOZUbGhxebCBxSWldY
+info: transport end (undefined)
+2 Jan 08:01:56 - Player has disconnected: AAiOZUbGhxebCBxSWldY
+info: transport end (undefined)
+2 Jan 08:01:56 - Player has disconnected: EfYVO92VqXHQczGUWldX
+info: transport end (undefined)
+2 Jan 08:01:58 - Player has disconnected: nov29beFQceEuuWlWldU
+info: transport end (undefined)
+2 Jan 08:01:58 - Player has disconnected: MFcmbqx8mcItxaosWldT
+info: handshake authorized rQUyfd-Bjuf-BUtgWldZ
+2 Jan 08:04:18 - New player has connected: rQUyfd-Bjuf-BUtgWldZ
+info: transport end (undefined)
+2 Jan 08:04:24 - Player has disconnected: rQUyfd-Bjuf-BUtgWldZ
+info: handshake authorized KWeTxEzPjrcCR0SeWlda
+2 Jan 08:05:38 - New player has connected: KWeTxEzPjrcCR0SeWlda
+2 Jan 08:05:38 - Player not found: KWeTxEzPjrcCR0SeWlda
+2 Jan 08:05:38 - Player not found: KWeTxEzPjrcCR0SeWlda
+2 Jan 08:05:38 - Player not found: KWeTxEzPjrcCR0SeWlda
+2 Jan 08:05:38 - Player not found: KWeTxEzPjrcCR0SeWlda
+2 Jan 08:05:38 - Player not found: KWeTxEzPjrcCR0SeWlda
+2 Jan 08:05:38 - Player not found: KWeTxEzPjrcCR0SeWlda
+2 Jan 08:05:38 - Player not found: KWeTxEzPjrcCR0SeWlda
+2 Jan 08:05:38 - Player not found: KWeTxEzPjrcCR0SeWlda
+2 Jan 08:05:38 - Player not found: KWeTxEzPjrcCR0SeWlda
+info: handshake authorized 0mDOEh07lwNimB-vWldb
+2 Jan 08:09:16 - New player has connected: 0mDOEh07lwNimB-vWldb
+2 Jan 08:09:16 - Player not found: 0mDOEh07lwNimB-vWldb
+2 Jan 08:09:16 - Player not found: 0mDOEh07lwNimB-vWldb
+2 Jan 08:09:16 - Player not found: 0mDOEh07lwNimB-vWldb
+2 Jan 08:09:16 - Player not found: 0mDOEh07lwNimB-vWldb
+2 Jan 08:09:16 - Player not found: 0mDOEh07lwNimB-vWldb
+2 Jan 08:09:16 - Player not found: 0mDOEh07lwNimB-vWldb
+2 Jan 08:09:16 - Player not found: 0mDOEh07lwNimB-vWldb
+2 Jan 08:09:16 - Player not found: 0mDOEh07lwNimB-vWldb
+2 Jan 08:09:16 - Player not found: 0mDOEh07lwNimB-vWldb
+2 Jan 08:09:16 - Player not found: 0mDOEh07lwNimB-vWldb
+2 Jan 08:09:16 - Player not found: 0mDOEh07lwNimB-vWldb
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized zDC1lbE8QpLDRKQzWldc
+2 Jan 08:09:33 - New player has connected: zDC1lbE8QpLDRKQzWldc
+2 Jan 08:09:33 - Player not found: zDC1lbE8QpLDRKQzWldc
+2 Jan 08:09:33 - Player not found: zDC1lbE8QpLDRKQzWldc
+2 Jan 08:09:33 - Player not found: zDC1lbE8QpLDRKQzWldc
+2 Jan 08:09:33 - Player not found: zDC1lbE8QpLDRKQzWldc
+2 Jan 08:09:33 - Player not found: zDC1lbE8QpLDRKQzWldc
+2 Jan 08:09:33 - Player not found: zDC1lbE8QpLDRKQzWldc
+2 Jan 08:09:33 - Player not found: zDC1lbE8QpLDRKQzWldc
+2 Jan 08:09:33 - Player not found: zDC1lbE8QpLDRKQzWldc
+2 Jan 08:09:33 - Player not found: zDC1lbE8QpLDRKQzWldc
+2 Jan 08:09:33 - Player not found: zDC1lbE8QpLDRKQzWldc
+2 Jan 08:09:33 - Player not found: zDC1lbE8QpLDRKQzWldc
+Server received message: move object
+info: transport end (undefined)
+2 Jan 08:09:40 - Player has disconnected: zDC1lbE8QpLDRKQzWldc
+info: transport end (undefined)
+2 Jan 08:09:41 - Player has disconnected: 0mDOEh07lwNimB-vWldb
+info: transport end (undefined)
+2 Jan 08:09:42 - Player has disconnected: KWeTxEzPjrcCR0SeWlda
+info: handshake authorized PkrUZTBzqBB2o3FmWldd
+2 Jan 08:09:53 - New player has connected: PkrUZTBzqBB2o3FmWldd
+2 Jan 08:09:53 - Player not found: PkrUZTBzqBB2o3FmWldd
+2 Jan 08:09:53 - Player not found: PkrUZTBzqBB2o3FmWldd
+2 Jan 08:09:53 - Player not found: PkrUZTBzqBB2o3FmWldd
+2 Jan 08:09:53 - Player not found: PkrUZTBzqBB2o3FmWldd
+2 Jan 08:09:53 - Player not found: PkrUZTBzqBB2o3FmWldd
+2 Jan 08:09:53 - Player not found: PkrUZTBzqBB2o3FmWldd
+2 Jan 08:09:53 - Player not found: PkrUZTBzqBB2o3FmWldd
+2 Jan 08:09:53 - Player not found: PkrUZTBzqBB2o3FmWldd
+2 Jan 08:09:53 - Player not found: PkrUZTBzqBB2o3FmWldd
+2 Jan 08:09:53 - Player not found: PkrUZTBzqBB2o3FmWldd
+2 Jan 08:09:53 - Player not found: PkrUZTBzqBB2o3FmWldd
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized z-LZKwYXu_mnABVbWlde
+2 Jan 08:10:07 - New player has connected: z-LZKwYXu_mnABVbWlde
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:27 - New player has connected: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:27 - Player not found: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:27 - Player not found: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:27 - Player not found: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:27 - Player not found: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:27 - Player not found: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:27 - Player not found: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:27 - Player not found: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:27 - Player not found: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:27 - Player not found: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:27 - Player not found: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:28 - Player not found: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:28 - Player not found: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:28 - Player not found: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:28 - Player not found: qP3aFvJiL2OBne5sWldf
+2 Jan 08:10:28 - Player not found: qP3aFvJiL2OBne5sWldf
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 08:10:36 - Player has disconnected: PkrUZTBzqBB2o3FmWldd
+Server received message: move object
+info: handshake authorized P32uAH2B2iqmjLc3Wldg
+2 Jan 08:10:44 - New player has connected: P32uAH2B2iqmjLc3Wldg
+info: transport end (undefined)
+2 Jan 08:10:45 - Player has disconnected: qP3aFvJiL2OBne5sWldf
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - New player has connected: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+2 Jan 08:11:17 - Player not found: k-LwrA2f83LeOqtUWldh
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 08:11:20 - Player has disconnected: P32uAH2B2iqmjLc3Wldg
+info: handshake authorized Fu22_IStVqXGfgYkWldi
+Server received message: move object
+2 Jan 08:11:21 - New player has connected: Fu22_IStVqXGfgYkWldi
+2 Jan 08:11:21 - Player not found: Fu22_IStVqXGfgYkWldi
+2 Jan 08:11:21 - Player not found: Fu22_IStVqXGfgYkWldi
+2 Jan 08:11:21 - Player not found: Fu22_IStVqXGfgYkWldi
+2 Jan 08:11:21 - Player not found: Fu22_IStVqXGfgYkWldi
+2 Jan 08:11:21 - Player not found: Fu22_IStVqXGfgYkWldi
+2 Jan 08:11:21 - Player not found: Fu22_IStVqXGfgYkWldi
+2 Jan 08:11:21 - Player not found: Fu22_IStVqXGfgYkWldi
+2 Jan 08:11:21 - Player not found: Fu22_IStVqXGfgYkWldi
+2 Jan 08:11:21 - Player not found: Fu22_IStVqXGfgYkWldi
+Server received message: move object
+info: transport end (undefined)
+2 Jan 08:11:23 - Player has disconnected: Fu22_IStVqXGfgYkWldi
+Server received message: move object
+Server received message: move object
+info: handshake authorized G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - New player has connected: G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - Player not found: G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - Player not found: G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - Player not found: G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - Player not found: G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - Player not found: G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - Player not found: G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - Player not found: G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - Player not found: G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - Player not found: G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - Player not found: G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - Player not found: G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - Player not found: G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - Player not found: G0PSd_iwhuy50VlpWldj
+2 Jan 08:11:23 - Player not found: G0PSd_iwhuy50VlpWldj
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 08:11:26 - Player has disconnected: G0PSd_iwhuy50VlpWldj
+info: handshake authorized z60hRhKTCx8VUdm-Wldk
+2 Jan 08:11:27 - New player has connected: z60hRhKTCx8VUdm-Wldk
+2 Jan 08:11:27 - Player not found: z60hRhKTCx8VUdm-Wldk
+2 Jan 08:11:27 - Player not found: z60hRhKTCx8VUdm-Wldk
+2 Jan 08:11:27 - Player not found: z60hRhKTCx8VUdm-Wldk
+2 Jan 08:11:27 - Player not found: z60hRhKTCx8VUdm-Wldk
+2 Jan 08:11:27 - Player not found: z60hRhKTCx8VUdm-Wldk
+2 Jan 08:11:27 - Player not found: z60hRhKTCx8VUdm-Wldk
+2 Jan 08:11:27 - Player not found: z60hRhKTCx8VUdm-Wldk
+2 Jan 08:11:27 - Player not found: z60hRhKTCx8VUdm-Wldk
+2 Jan 08:11:27 - Player not found: z60hRhKTCx8VUdm-Wldk
+2 Jan 08:11:27 - Player not found: z60hRhKTCx8VUdm-Wldk
+2 Jan 08:11:27 - Player not found: z60hRhKTCx8VUdm-Wldk
+2 Jan 08:11:27 - Player not found: z60hRhKTCx8VUdm-Wldk
+2 Jan 08:11:27 - Player not found: z60hRhKTCx8VUdm-Wldk
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 08:14:34 - Player has disconnected: z60hRhKTCx8VUdm-Wldk
+info: handshake authorized y9jz2ZWBjsrqOsfaWldl
+2 Jan 08:14:34 - New player has connected: y9jz2ZWBjsrqOsfaWldl
+2 Jan 08:14:35 - Player not found: y9jz2ZWBjsrqOsfaWldl
+2 Jan 08:14:35 - Player not found: y9jz2ZWBjsrqOsfaWldl
+2 Jan 08:14:35 - Player not found: y9jz2ZWBjsrqOsfaWldl
+2 Jan 08:14:35 - Player not found: y9jz2ZWBjsrqOsfaWldl
+2 Jan 08:14:35 - Player not found: y9jz2ZWBjsrqOsfaWldl
+2 Jan 08:14:35 - Player not found: y9jz2ZWBjsrqOsfaWldl
+2 Jan 08:14:35 - Player not found: y9jz2ZWBjsrqOsfaWldl
+2 Jan 08:14:35 - Player not found: y9jz2ZWBjsrqOsfaWldl
+2 Jan 08:14:35 - Player not found: y9jz2ZWBjsrqOsfaWldl
+2 Jan 08:14:35 - Player not found: y9jz2ZWBjsrqOsfaWldl
+2 Jan 08:14:35 - Player not found: y9jz2ZWBjsrqOsfaWldl
+2 Jan 08:14:35 - Player not found: y9jz2ZWBjsrqOsfaWldl
+2 Jan 08:14:35 - Player not found: y9jz2ZWBjsrqOsfaWldl
+info: transport end (undefined)
+2 Jan 08:16:10 - Player has disconnected: y9jz2ZWBjsrqOsfaWldl
+info: handshake authorized U_qi5KEOw_Yp7QT_Wldm
+2 Jan 08:16:11 - New player has connected: U_qi5KEOw_Yp7QT_Wldm
+2 Jan 08:16:11 - Player not found: U_qi5KEOw_Yp7QT_Wldm
+2 Jan 08:16:11 - Player not found: U_qi5KEOw_Yp7QT_Wldm
+2 Jan 08:16:11 - Player not found: U_qi5KEOw_Yp7QT_Wldm
+2 Jan 08:16:11 - Player not found: U_qi5KEOw_Yp7QT_Wldm
+2 Jan 08:16:11 - Player not found: U_qi5KEOw_Yp7QT_Wldm
+2 Jan 08:16:11 - Player not found: U_qi5KEOw_Yp7QT_Wldm
+2 Jan 08:16:11 - Player not found: U_qi5KEOw_Yp7QT_Wldm
+info: handshake authorized Feb0CuEZYAl7WnK9Wldn
+2 Jan 08:18:24 - New player has connected: Feb0CuEZYAl7WnK9Wldn
+2 Jan 08:18:24 - Player not found: Feb0CuEZYAl7WnK9Wldn
+2 Jan 08:18:24 - Player not found: Feb0CuEZYAl7WnK9Wldn
+2 Jan 08:18:24 - Player not found: Feb0CuEZYAl7WnK9Wldn
+2 Jan 08:18:24 - Player not found: Feb0CuEZYAl7WnK9Wldn
+2 Jan 08:18:24 - Player not found: Feb0CuEZYAl7WnK9Wldn
+2 Jan 08:18:24 - Player not found: Feb0CuEZYAl7WnK9Wldn
+2 Jan 08:18:24 - Player not found: Feb0CuEZYAl7WnK9Wldn
+2 Jan 08:18:24 - Player not found: Feb0CuEZYAl7WnK9Wldn
+2 Jan 08:18:24 - Player not found: Feb0CuEZYAl7WnK9Wldn
+2 Jan 08:18:24 - Player not found: Feb0CuEZYAl7WnK9Wldn
+2 Jan 08:18:24 - Player not found: Feb0CuEZYAl7WnK9Wldn
+2 Jan 08:18:24 - Player not found: Feb0CuEZYAl7WnK9Wldn
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized P4ZEMULNgeDQctWXWldo
+2 Jan 08:19:57 - New player has connected: P4ZEMULNgeDQctWXWldo
+2 Jan 08:19:57 - Player not found: P4ZEMULNgeDQctWXWldo
+2 Jan 08:19:57 - Player not found: P4ZEMULNgeDQctWXWldo
+2 Jan 08:19:57 - Player not found: P4ZEMULNgeDQctWXWldo
+2 Jan 08:19:57 - Player not found: P4ZEMULNgeDQctWXWldo
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (socket end)
+2 Jan 08:20:10 - Player has disconnected: P4ZEMULNgeDQctWXWldo
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - New player has connected: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+2 Jan 08:21:25 - Player not found: KgE7eimbnsmVY2t0Wldp
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 08:22:11 - Player has disconnected: U_qi5KEOw_Yp7QT_Wldm
+info: handshake authorized wheDSoH5AaIg-ma0Wldq
+2 Jan 08:22:12 - New player has connected: wheDSoH5AaIg-ma0Wldq
+2 Jan 08:22:12 - Player not found: wheDSoH5AaIg-ma0Wldq
+2 Jan 08:22:12 - Player not found: wheDSoH5AaIg-ma0Wldq
+2 Jan 08:22:12 - Player not found: wheDSoH5AaIg-ma0Wldq
+2 Jan 08:22:12 - Player not found: wheDSoH5AaIg-ma0Wldq
+2 Jan 08:22:12 - Player not found: wheDSoH5AaIg-ma0Wldq
+2 Jan 08:22:12 - Player not found: wheDSoH5AaIg-ma0Wldq
+2 Jan 08:22:12 - Player not found: wheDSoH5AaIg-ma0Wldq
+2 Jan 08:22:12 - Player not found: wheDSoH5AaIg-ma0Wldq
+info: handshake authorized Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - New player has connected: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+2 Jan 08:22:15 - Player not found: Ca5ip1YshiJ6poX_Wldr
+info: handshake authorized WbCxqMMtAJAgCUHFWlds
+2 Jan 08:22:24 - New player has connected: WbCxqMMtAJAgCUHFWlds
+info: transport end (undefined)
+2 Jan 08:22:33 - Player has disconnected: Feb0CuEZYAl7WnK9Wldn
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 08:22:53 - Player has disconnected: WbCxqMMtAJAgCUHFWlds
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (heartbeat timeout)
+2 Jan 08:24:06 - Player has disconnected: Ca5ip1YshiJ6poX_Wldr
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 08:25:17 - Player has disconnected: KgE7eimbnsmVY2t0Wldp
+info: transport end (undefined)
+2 Jan 08:25:23 - Player has disconnected: wheDSoH5AaIg-ma0Wldq
+info: handshake authorized TVoKk9z00V1Sud_WWldt
+info: handshake authorized HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - New player has connected: TVoKk9z00V1Sud_WWldt
+2 Jan 08:25:24 - New player has connected: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+2 Jan 08:25:24 - Player not found: HTARhe1S0gNWmg0zWldu
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 08:25:52 - Player has disconnected: z-LZKwYXu_mnABVbWlde
+Server received message: move object
+info: handshake authorized w-5AYclEZ2NAPlATWldv
+2 Jan 08:26:02 - New player has connected: w-5AYclEZ2NAPlATWldv
+2 Jan 08:26:02 - Player not found: w-5AYclEZ2NAPlATWldv
+2 Jan 08:26:02 - Player not found: w-5AYclEZ2NAPlATWldv
+2 Jan 08:26:02 - Player not found: w-5AYclEZ2NAPlATWldv
+2 Jan 08:26:02 - Player not found: w-5AYclEZ2NAPlATWldv
+2 Jan 08:26:02 - Player not found: w-5AYclEZ2NAPlATWldv
+2 Jan 08:26:02 - Player not found: w-5AYclEZ2NAPlATWldv
+2 Jan 08:26:02 - Player not found: w-5AYclEZ2NAPlATWldv
+2 Jan 08:26:02 - Player not found: w-5AYclEZ2NAPlATWldv
+2 Jan 08:26:02 - Player not found: w-5AYclEZ2NAPlATWldv
+2 Jan 08:26:02 - Player not found: w-5AYclEZ2NAPlATWldv
+2 Jan 08:26:02 - Player not found: w-5AYclEZ2NAPlATWldv
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized t3Qug3MrOn5dUIToWldw
+2 Jan 08:27:52 - New player has connected: t3Qug3MrOn5dUIToWldw
+2 Jan 08:27:52 - Player not found: t3Qug3MrOn5dUIToWldw
+2 Jan 08:27:52 - Player not found: t3Qug3MrOn5dUIToWldw
+2 Jan 08:27:52 - Player not found: t3Qug3MrOn5dUIToWldw
+2 Jan 08:27:52 - Player not found: t3Qug3MrOn5dUIToWldw
+2 Jan 08:27:52 - Player not found: t3Qug3MrOn5dUIToWldw
+2 Jan 08:27:52 - Player not found: t3Qug3MrOn5dUIToWldw
+2 Jan 08:27:52 - Player not found: t3Qug3MrOn5dUIToWldw
+2 Jan 08:27:52 - Player not found: t3Qug3MrOn5dUIToWldw
+2 Jan 08:27:52 - Player not found: t3Qug3MrOn5dUIToWldw
+Server received message: move object
+Server received message: move object
+info: handshake authorized QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:31 - New player has connected: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+2 Jan 08:28:32 - Player not found: QxZbaPkmr5NP7Ss2Wldx
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (heartbeat timeout)
+2 Jan 08:29:43 - Player has disconnected: t3Qug3MrOn5dUIToWldw
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized TCNrsYYDiOZl-ICtWldy
+2 Jan 08:30:21 - New player has connected: TCNrsYYDiOZl-ICtWldy
+2 Jan 08:30:21 - Player not found: TCNrsYYDiOZl-ICtWldy
+2 Jan 08:30:21 - Player not found: TCNrsYYDiOZl-ICtWldy
+2 Jan 08:30:21 - Player not found: TCNrsYYDiOZl-ICtWldy
+2 Jan 08:30:21 - Player not found: TCNrsYYDiOZl-ICtWldy
+2 Jan 08:30:21 - Player not found: TCNrsYYDiOZl-ICtWldy
+2 Jan 08:30:21 - Player not found: TCNrsYYDiOZl-ICtWldy
+2 Jan 08:30:21 - Player not found: TCNrsYYDiOZl-ICtWldy
+2 Jan 08:30:21 - Player not found: TCNrsYYDiOZl-ICtWldy
+2 Jan 08:30:21 - Player not found: TCNrsYYDiOZl-ICtWldy
+2 Jan 08:30:21 - Player not found: TCNrsYYDiOZl-ICtWldy
+2 Jan 08:30:21 - Player not found: TCNrsYYDiOZl-ICtWldy
+info: transport end (heartbeat timeout)
+2 Jan 08:30:23 - Player has disconnected: QxZbaPkmr5NP7Ss2Wldx
+info: transport end (undefined)
+2 Jan 08:30:29 - Player has disconnected: TCNrsYYDiOZl-ICtWldy
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - New player has connected: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+2 Jan 08:31:37 - Player not found: ZDDkDCV_lYc6Wd7BWldz
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 08:32:29 - Player has disconnected: w-5AYclEZ2NAPlATWldv
+info: handshake authorized MkokhrD_bXfO7MYUWld0
+2 Jan 08:32:29 - New player has connected: MkokhrD_bXfO7MYUWld0
+2 Jan 08:32:29 - Player not found: MkokhrD_bXfO7MYUWld0
+2 Jan 08:32:29 - Player not found: MkokhrD_bXfO7MYUWld0
+2 Jan 08:32:29 - Player not found: MkokhrD_bXfO7MYUWld0
+2 Jan 08:32:29 - Player not found: MkokhrD_bXfO7MYUWld0
+2 Jan 08:32:29 - Player not found: MkokhrD_bXfO7MYUWld0
+2 Jan 08:32:29 - Player not found: MkokhrD_bXfO7MYUWld0
+2 Jan 08:32:29 - Player not found: MkokhrD_bXfO7MYUWld0
+2 Jan 08:32:29 - Player not found: MkokhrD_bXfO7MYUWld0
+2 Jan 08:32:29 - Player not found: MkokhrD_bXfO7MYUWld0
+2 Jan 08:32:29 - Player not found: MkokhrD_bXfO7MYUWld0
+2 Jan 08:32:29 - Player not found: MkokhrD_bXfO7MYUWld0
+2 Jan 08:32:29 - Player not found: MkokhrD_bXfO7MYUWld0
+Server received message: move object
+info: transport end (undefined)
+2 Jan 08:34:28 - Player has disconnected: TVoKk9z00V1Sud_WWldt
+info: transport end (undefined)
+2 Jan 08:37:05 - Player has disconnected: HTARhe1S0gNWmg0zWldu
+info: handshake authorized zzKU--agUkcCRs1UWld1
+2 Jan 08:37:06 - New player has connected: zzKU--agUkcCRs1UWld1
+2 Jan 08:37:06 - Player not found: zzKU--agUkcCRs1UWld1
+2 Jan 08:37:06 - Player not found: zzKU--agUkcCRs1UWld1
+2 Jan 08:37:06 - Player not found: zzKU--agUkcCRs1UWld1
+2 Jan 08:37:06 - Player not found: zzKU--agUkcCRs1UWld1
+2 Jan 08:37:06 - Player not found: zzKU--agUkcCRs1UWld1
+2 Jan 08:37:06 - Player not found: zzKU--agUkcCRs1UWld1
+2 Jan 08:37:06 - Player not found: zzKU--agUkcCRs1UWld1
+2 Jan 08:37:06 - Player not found: zzKU--agUkcCRs1UWld1
+2 Jan 08:37:06 - Player not found: zzKU--agUkcCRs1UWld1
+2 Jan 08:37:06 - Player not found: zzKU--agUkcCRs1UWld1
+2 Jan 08:37:06 - Player not found: zzKU--agUkcCRs1UWld1
+2 Jan 08:37:06 - Player not found: zzKU--agUkcCRs1UWld1
+2 Jan 08:37:06 - Player not found: zzKU--agUkcCRs1UWld1
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - New player has connected: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+2 Jan 08:39:58 - Player not found: Ks83uPwXW0OOT0V4Wld2
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 08:41:50 - Player has disconnected: Ks83uPwXW0OOT0V4Wld2
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - New player has connected: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+2 Jan 08:47:05 - Player not found: v2-gfzeZRZthrLWIWld3
+info: transport end (heartbeat timeout)
+2 Jan 08:48:56 - Player has disconnected: v2-gfzeZRZthrLWIWld3
+info: transport end (undefined)
+2 Jan 08:50:06 - Player has disconnected: zzKU--agUkcCRs1UWld1
+info: transport end (undefined)
+2 Jan 08:51:23 - Player has disconnected: ZDDkDCV_lYc6Wd7BWldz
+info: transport end (undefined)
+2 Jan 08:51:24 - Player has disconnected: k-LwrA2f83LeOqtUWldh
+info: transport end (undefined)
+2 Jan 08:55:28 - Player has disconnected: MkokhrD_bXfO7MYUWld0
+info: handshake authorized IGA3XiUMIs7rcS8qWld4
+2 Jan 08:55:29 - New player has connected: IGA3XiUMIs7rcS8qWld4
+2 Jan 08:55:29 - Player not found: IGA3XiUMIs7rcS8qWld4
+2 Jan 08:55:29 - Player not found: IGA3XiUMIs7rcS8qWld4
+2 Jan 08:55:29 - Player not found: IGA3XiUMIs7rcS8qWld4
+2 Jan 08:55:29 - Player not found: IGA3XiUMIs7rcS8qWld4
+2 Jan 08:55:29 - Player not found: IGA3XiUMIs7rcS8qWld4
+2 Jan 08:55:29 - Player not found: IGA3XiUMIs7rcS8qWld4
+2 Jan 08:55:29 - Player not found: IGA3XiUMIs7rcS8qWld4
+2 Jan 08:55:29 - Player not found: IGA3XiUMIs7rcS8qWld4
+2 Jan 08:55:29 - Player not found: IGA3XiUMIs7rcS8qWld4
+2 Jan 08:55:29 - Player not found: IGA3XiUMIs7rcS8qWld4
+2 Jan 08:55:29 - Player not found: IGA3XiUMIs7rcS8qWld4
+info: transport end (undefined)
+2 Jan 08:55:32 - Player has disconnected: IGA3XiUMIs7rcS8qWld4
+info: handshake authorized uA4LTdGRQBMffPdNWld5
+2 Jan 09:18:54 - New player has connected: uA4LTdGRQBMffPdNWld5
+2 Jan 09:18:54 - Player not found: uA4LTdGRQBMffPdNWld5
+2 Jan 09:18:54 - Player not found: uA4LTdGRQBMffPdNWld5
+2 Jan 09:18:54 - Player not found: uA4LTdGRQBMffPdNWld5
+2 Jan 09:18:54 - Player not found: uA4LTdGRQBMffPdNWld5
+2 Jan 09:18:54 - Player not found: uA4LTdGRQBMffPdNWld5
+2 Jan 09:18:54 - Player not found: uA4LTdGRQBMffPdNWld5
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 09:19:36 - Player has disconnected: uA4LTdGRQBMffPdNWld5
+info: handshake authorized zPfjI4M_VvI8GcRaWld6
+2 Jan 09:38:26 - New player has connected: zPfjI4M_VvI8GcRaWld6
+2 Jan 09:38:27 - Player not found: zPfjI4M_VvI8GcRaWld6
+2 Jan 09:38:27 - Player not found: zPfjI4M_VvI8GcRaWld6
+2 Jan 09:38:27 - Player not found: zPfjI4M_VvI8GcRaWld6
+2 Jan 09:38:27 - Player not found: zPfjI4M_VvI8GcRaWld6
+2 Jan 09:38:27 - Player not found: zPfjI4M_VvI8GcRaWld6
+2 Jan 09:38:27 - Player not found: zPfjI4M_VvI8GcRaWld6
+2 Jan 09:38:27 - Player not found: zPfjI4M_VvI8GcRaWld6
+2 Jan 09:38:27 - Player not found: zPfjI4M_VvI8GcRaWld6
+2 Jan 09:38:27 - Player not found: zPfjI4M_VvI8GcRaWld6
+Server received message: move object
+info: transport end (undefined)
+2 Jan 09:53:07 - Player has disconnected: zPfjI4M_VvI8GcRaWld6
+info: handshake authorized d5_TLfX98WdkqsHhWld7
+2 Jan 10:13:30 - New player has connected: d5_TLfX98WdkqsHhWld7
+2 Jan 10:13:30 - Player not found: d5_TLfX98WdkqsHhWld7
+2 Jan 10:13:30 - Player not found: d5_TLfX98WdkqsHhWld7
+2 Jan 10:13:30 - Player not found: d5_TLfX98WdkqsHhWld7
+2 Jan 10:13:30 - Player not found: d5_TLfX98WdkqsHhWld7
+2 Jan 10:13:30 - Player not found: d5_TLfX98WdkqsHhWld7
+2 Jan 10:13:30 - Player not found: d5_TLfX98WdkqsHhWld7
+2 Jan 10:13:30 - Player not found: d5_TLfX98WdkqsHhWld7
+2 Jan 10:13:30 - Player not found: d5_TLfX98WdkqsHhWld7
+2 Jan 10:13:30 - Player not found: d5_TLfX98WdkqsHhWld7
+2 Jan 10:13:30 - Player not found: d5_TLfX98WdkqsHhWld7
+Server received message: move object
+info: transport end (undefined)
+2 Jan 10:13:40 - Player has disconnected: d5_TLfX98WdkqsHhWld7
+info: handshake authorized kLHjrmtNVmutFZfoWld8
+2 Jan 10:44:31 - New player has connected: kLHjrmtNVmutFZfoWld8
+2 Jan 10:44:31 - Player not found: kLHjrmtNVmutFZfoWld8
+2 Jan 10:44:31 - Player not found: kLHjrmtNVmutFZfoWld8
+2 Jan 10:44:31 - Player not found: kLHjrmtNVmutFZfoWld8
+2 Jan 10:44:31 - Player not found: kLHjrmtNVmutFZfoWld8
+2 Jan 10:44:31 - Player not found: kLHjrmtNVmutFZfoWld8
+2 Jan 10:44:31 - Player not found: kLHjrmtNVmutFZfoWld8
+2 Jan 10:44:31 - Player not found: kLHjrmtNVmutFZfoWld8
+2 Jan 10:44:31 - Player not found: kLHjrmtNVmutFZfoWld8
+2 Jan 10:44:31 - Player not found: kLHjrmtNVmutFZfoWld8
+2 Jan 10:44:31 - Player not found: kLHjrmtNVmutFZfoWld8
+2 Jan 10:44:31 - Player not found: kLHjrmtNVmutFZfoWld8
+2 Jan 10:44:31 - Player not found: kLHjrmtNVmutFZfoWld8
+2 Jan 10:44:31 - Player not found: kLHjrmtNVmutFZfoWld8
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 10:46:05 - Player has disconnected: kLHjrmtNVmutFZfoWld8
+info: handshake authorized 4nHJZ64896SqHR_EWld9
+2 Jan 10:46:41 - New player has connected: 4nHJZ64896SqHR_EWld9
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (socket end)
+2 Jan 10:48:31 - Player has disconnected: 4nHJZ64896SqHR_EWld9
+info: handshake authorized BHukZCHzRkoxLZIHWld-
+2 Jan 10:48:32 - New player has connected: BHukZCHzRkoxLZIHWld-
+2 Jan 10:48:32 - Player not found: BHukZCHzRkoxLZIHWld-
+2 Jan 10:48:32 - Player not found: BHukZCHzRkoxLZIHWld-
+2 Jan 10:48:32 - Player not found: BHukZCHzRkoxLZIHWld-
+2 Jan 10:48:32 - Player not found: BHukZCHzRkoxLZIHWld-
+2 Jan 10:48:32 - Player not found: BHukZCHzRkoxLZIHWld-
+2 Jan 10:48:32 - Player not found: BHukZCHzRkoxLZIHWld-
+2 Jan 10:48:32 - Player not found: BHukZCHzRkoxLZIHWld-
+2 Jan 10:48:32 - Player not found: BHukZCHzRkoxLZIHWld-
+2 Jan 10:48:32 - Player not found: BHukZCHzRkoxLZIHWld-
+2 Jan 10:48:32 - Player not found: BHukZCHzRkoxLZIHWld-
+2 Jan 10:48:32 - Player not found: BHukZCHzRkoxLZIHWld-
+2 Jan 10:48:32 - Player not found: BHukZCHzRkoxLZIHWld-
+info: transport end (socket end)
+2 Jan 10:48:39 - Player has disconnected: BHukZCHzRkoxLZIHWld-
+info: handshake authorized TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - New player has connected: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+2 Jan 12:25:04 - Player not found: TOG0Xjodg8atJbuMWld_
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 12:27:00 - Player has disconnected: TOG0Xjodg8atJbuMWld_
+info: handshake authorized QNveoV98xCDD0KHMWleA
+2 Jan 12:27:01 - New player has connected: QNveoV98xCDD0KHMWleA
+2 Jan 12:27:01 - Player not found: QNveoV98xCDD0KHMWleA
+2 Jan 12:27:01 - Player not found: QNveoV98xCDD0KHMWleA
+2 Jan 12:27:01 - Player not found: QNveoV98xCDD0KHMWleA
+2 Jan 12:27:01 - Player not found: QNveoV98xCDD0KHMWleA
+2 Jan 12:27:01 - Player not found: QNveoV98xCDD0KHMWleA
+2 Jan 12:27:01 - Player not found: QNveoV98xCDD0KHMWleA
+2 Jan 12:27:01 - Player not found: QNveoV98xCDD0KHMWleA
+2 Jan 12:27:01 - Player not found: QNveoV98xCDD0KHMWleA
+info: transport end (undefined)
+2 Jan 12:27:11 - Player has disconnected: QNveoV98xCDD0KHMWleA
+info: handshake authorized 3Ei8CMipcUgI-88_WleB
+2 Jan 12:51:45 - New player has connected: 3Ei8CMipcUgI-88_WleB
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 12:52:07 - Player has disconnected: 3Ei8CMipcUgI-88_WleB
+info: handshake authorized Z_x9d0IKUtlWk6kqWleC
+2 Jan 13:44:25 - New player has connected: Z_x9d0IKUtlWk6kqWleC
+2 Jan 13:44:25 - Player not found: Z_x9d0IKUtlWk6kqWleC
+2 Jan 13:44:25 - Player not found: Z_x9d0IKUtlWk6kqWleC
+2 Jan 13:44:25 - Player not found: Z_x9d0IKUtlWk6kqWleC
+2 Jan 13:44:25 - Player not found: Z_x9d0IKUtlWk6kqWleC
+2 Jan 13:44:25 - Player not found: Z_x9d0IKUtlWk6kqWleC
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (socket end)
+2 Jan 13:47:06 - Player has disconnected: Z_x9d0IKUtlWk6kqWleC
+info: handshake authorized hPf-MVxCaIJ8ZiYEWleD
+2 Jan 13:47:44 - New player has connected: hPf-MVxCaIJ8ZiYEWleD
+2 Jan 13:47:44 - Player not found: hPf-MVxCaIJ8ZiYEWleD
+2 Jan 13:47:44 - Player not found: hPf-MVxCaIJ8ZiYEWleD
+2 Jan 13:47:44 - Player not found: hPf-MVxCaIJ8ZiYEWleD
+2 Jan 13:47:44 - Player not found: hPf-MVxCaIJ8ZiYEWleD
+2 Jan 13:47:44 - Player not found: hPf-MVxCaIJ8ZiYEWleD
+2 Jan 13:47:44 - Player not found: hPf-MVxCaIJ8ZiYEWleD
+info: transport end (socket end)
+2 Jan 13:47:48 - Player has disconnected: hPf-MVxCaIJ8ZiYEWleD
+info: handshake authorized eydh-ydeKOiiy7muWleE
+2 Jan 13:54:53 - New player has connected: eydh-ydeKOiiy7muWleE
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 13:57:09 - Player has disconnected: eydh-ydeKOiiy7muWleE
+info: handshake authorized bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - New player has connected: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+2 Jan 14:42:56 - Player not found: bWSY-kN_g5vQPyLtWleF
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 14:44:58 - Player has disconnected: bWSY-kN_g5vQPyLtWleF
+info: handshake authorized 6y3QK9k44gWLwvXNWleG
+2 Jan 15:07:38 - New player has connected: 6y3QK9k44gWLwvXNWleG
+2 Jan 15:07:38 - Player not found: 6y3QK9k44gWLwvXNWleG
+2 Jan 15:07:38 - Player not found: 6y3QK9k44gWLwvXNWleG
+2 Jan 15:07:38 - Player not found: 6y3QK9k44gWLwvXNWleG
+2 Jan 15:07:38 - Player not found: 6y3QK9k44gWLwvXNWleG
+2 Jan 15:07:38 - Player not found: 6y3QK9k44gWLwvXNWleG
+2 Jan 15:07:38 - Player not found: 6y3QK9k44gWLwvXNWleG
+2 Jan 15:07:38 - Player not found: 6y3QK9k44gWLwvXNWleG
+2 Jan 15:07:38 - Player not found: 6y3QK9k44gWLwvXNWleG
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 15:08:00 - Player has disconnected: 6y3QK9k44gWLwvXNWleG
+info: handshake authorized RTaFo2choi3UHgXTWleH
+2 Jan 15:08:01 - New player has connected: RTaFo2choi3UHgXTWleH
+2 Jan 15:08:01 - Player not found: RTaFo2choi3UHgXTWleH
+2 Jan 15:08:01 - Player not found: RTaFo2choi3UHgXTWleH
+2 Jan 15:08:01 - Player not found: RTaFo2choi3UHgXTWleH
+2 Jan 15:08:01 - Player not found: RTaFo2choi3UHgXTWleH
+2 Jan 15:08:01 - Player not found: RTaFo2choi3UHgXTWleH
+2 Jan 15:08:01 - Player not found: RTaFo2choi3UHgXTWleH
+2 Jan 15:08:01 - Player not found: RTaFo2choi3UHgXTWleH
+2 Jan 15:08:01 - Player not found: RTaFo2choi3UHgXTWleH
+2 Jan 15:08:01 - Player not found: RTaFo2choi3UHgXTWleH
+info: transport end (undefined)
+2 Jan 15:08:01 - Player has disconnected: RTaFo2choi3UHgXTWleH
+info: handshake authorized HNWNrBt3KMQipzZWWleI
+2 Jan 15:16:25 - New player has connected: HNWNrBt3KMQipzZWWleI
+2 Jan 15:16:25 - Player not found: HNWNrBt3KMQipzZWWleI
+2 Jan 15:16:25 - Player not found: HNWNrBt3KMQipzZWWleI
+2 Jan 15:16:25 - Player not found: HNWNrBt3KMQipzZWWleI
+2 Jan 15:16:25 - Player not found: HNWNrBt3KMQipzZWWleI
+2 Jan 15:16:25 - Player not found: HNWNrBt3KMQipzZWWleI
+2 Jan 15:16:25 - Player not found: HNWNrBt3KMQipzZWWleI
+info: transport end (undefined)
+2 Jan 15:16:39 - Player has disconnected: HNWNrBt3KMQipzZWWleI
+info: handshake authorized sD1KBSI8G2Y7R5MTWleJ
+info: handshake authorized 4kTmc_EsgugR-1amWleK
+2 Jan 15:55:50 - New player has connected: 4kTmc_EsgugR-1amWleK
+2 Jan 15:55:51 - Player not found: 4kTmc_EsgugR-1amWleK
+2 Jan 15:55:51 - Player not found: 4kTmc_EsgugR-1amWleK
+2 Jan 15:55:51 - Player not found: 4kTmc_EsgugR-1amWleK
+2 Jan 15:55:51 - Player not found: 4kTmc_EsgugR-1amWleK
+2 Jan 15:55:51 - Player not found: 4kTmc_EsgugR-1amWleK
+2 Jan 15:55:51 - Player not found: 4kTmc_EsgugR-1amWleK
+2 Jan 15:55:51 - Player not found: 4kTmc_EsgugR-1amWleK
+2 Jan 15:55:51 - Player not found: 4kTmc_EsgugR-1amWleK
+2 Jan 15:55:51 - Player not found: 4kTmc_EsgugR-1amWleK
+2 Jan 15:55:51 - Player not found: 4kTmc_EsgugR-1amWleK
+2 Jan 15:55:51 - Player not found: 4kTmc_EsgugR-1amWleK
+2 Jan 15:55:51 - Player not found: 4kTmc_EsgugR-1amWleK
+2 Jan 15:55:51 - Player not found: 4kTmc_EsgugR-1amWleK
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - New player has connected: UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - Player not found: UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - Player not found: UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - Player not found: UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - Player not found: UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - Player not found: UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - Player not found: UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - Player not found: UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - Player not found: UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - Player not found: UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - Player not found: UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - Player not found: UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - Player not found: UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - Player not found: UULCggh9dTN0SUI-WleL
+2 Jan 16:01:51 - Player not found: UULCggh9dTN0SUI-WleL
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 16:03:13 - Player has disconnected: UULCggh9dTN0SUI-WleL
+info: handshake authorized SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - New player has connected: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+2 Jan 16:05:24 - Player not found: SsH7zZJYquI8j9JfWleM
+info: handshake authorized gyTxRhfUGvCamWJlWleN
+2 Jan 16:06:45 - New player has connected: gyTxRhfUGvCamWJlWleN
+info: transport end (heartbeat timeout)
+2 Jan 16:06:49 - Player has disconnected: SsH7zZJYquI8j9JfWleM
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 16:15:32 - Player has disconnected: gyTxRhfUGvCamWJlWleN
+info: handshake authorized L7Hef5R4ZzekEGIEWleO
+2 Jan 16:15:33 - New player has connected: L7Hef5R4ZzekEGIEWleO
+2 Jan 16:15:34 - Player not found: L7Hef5R4ZzekEGIEWleO
+2 Jan 16:15:34 - Player not found: L7Hef5R4ZzekEGIEWleO
+2 Jan 16:15:34 - Player not found: L7Hef5R4ZzekEGIEWleO
+2 Jan 16:15:34 - Player not found: L7Hef5R4ZzekEGIEWleO
+2 Jan 16:15:34 - Player not found: L7Hef5R4ZzekEGIEWleO
+2 Jan 16:15:34 - Player not found: L7Hef5R4ZzekEGIEWleO
+2 Jan 16:15:34 - Player not found: L7Hef5R4ZzekEGIEWleO
+2 Jan 16:15:34 - Player not found: L7Hef5R4ZzekEGIEWleO
+2 Jan 16:15:34 - Player not found: L7Hef5R4ZzekEGIEWleO
+2 Jan 16:15:34 - Player not found: L7Hef5R4ZzekEGIEWleO
+2 Jan 16:15:34 - Player not found: L7Hef5R4ZzekEGIEWleO
+info: transport end (undefined)
+2 Jan 16:16:28 - Player has disconnected: L7Hef5R4ZzekEGIEWleO
+info: handshake authorized GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:32 - New player has connected: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+2 Jan 16:16:33 - Player not found: GFN2QWzO9-OiSmASWleP
+info: transport end (undefined)
+2 Jan 16:16:35 - Player has disconnected: GFN2QWzO9-OiSmASWleP
+info: handshake authorized p1frwKCRf0AnBc7nWleQ
+2 Jan 16:17:08 - New player has connected: p1frwKCRf0AnBc7nWleQ
+2 Jan 16:17:08 - Player not found: p1frwKCRf0AnBc7nWleQ
+2 Jan 16:17:08 - Player not found: p1frwKCRf0AnBc7nWleQ
+2 Jan 16:17:08 - Player not found: p1frwKCRf0AnBc7nWleQ
+2 Jan 16:17:08 - Player not found: p1frwKCRf0AnBc7nWleQ
+2 Jan 16:17:08 - Player not found: p1frwKCRf0AnBc7nWleQ
+2 Jan 16:17:08 - Player not found: p1frwKCRf0AnBc7nWleQ
+2 Jan 16:17:08 - Player not found: p1frwKCRf0AnBc7nWleQ
+2 Jan 16:17:08 - Player not found: p1frwKCRf0AnBc7nWleQ
+2 Jan 16:17:08 - Player not found: p1frwKCRf0AnBc7nWleQ
+2 Jan 16:17:08 - Player not found: p1frwKCRf0AnBc7nWleQ
+2 Jan 16:17:08 - Player not found: p1frwKCRf0AnBc7nWleQ
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized gX-ZeXRp9NiW3nzTWleR
+2 Jan 16:17:38 - New player has connected: gX-ZeXRp9NiW3nzTWleR
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 16:18:05 - Player has disconnected: p1frwKCRf0AnBc7nWleQ
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 16:18:30 - Player has disconnected: gX-ZeXRp9NiW3nzTWleR
+info: handshake authorized xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:13 - New player has connected: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+2 Jan 16:20:14 - Player not found: xXTMJWT4pfNlHEBFWleS
+info: handshake authorized FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - New player has connected: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+2 Jan 16:21:43 - Player not found: FinikXkjuIdDHOGmWleT
+Server received message: move object
+info: transport end (heartbeat timeout)
+2 Jan 16:22:58 - Player has disconnected: xXTMJWT4pfNlHEBFWleS
+info: transport end (heartbeat timeout)
+2 Jan 16:24:01 - Player has disconnected: FinikXkjuIdDHOGmWleT
+info: handshake authorized Kkze8v84SKwsYzyhWleU
+2 Jan 16:30:28 - New player has connected: Kkze8v84SKwsYzyhWleU
+2 Jan 16:30:28 - Player not found: Kkze8v84SKwsYzyhWleU
+2 Jan 16:30:28 - Player not found: Kkze8v84SKwsYzyhWleU
+2 Jan 16:30:28 - Player not found: Kkze8v84SKwsYzyhWleU
+2 Jan 16:30:28 - Player not found: Kkze8v84SKwsYzyhWleU
+2 Jan 16:30:28 - Player not found: Kkze8v84SKwsYzyhWleU
+2 Jan 16:30:28 - Player not found: Kkze8v84SKwsYzyhWleU
+2 Jan 16:30:28 - Player not found: Kkze8v84SKwsYzyhWleU
+2 Jan 16:30:28 - Player not found: Kkze8v84SKwsYzyhWleU
+2 Jan 16:30:28 - Player not found: Kkze8v84SKwsYzyhWleU
+2 Jan 16:30:28 - Player not found: Kkze8v84SKwsYzyhWleU
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 16:30:59 - Player has disconnected: Kkze8v84SKwsYzyhWleU
+info: handshake authorized IWnCJlFRtd67sN-mWleV
+2 Jan 16:38:42 - New player has connected: IWnCJlFRtd67sN-mWleV
+2 Jan 16:38:42 - Player not found: IWnCJlFRtd67sN-mWleV
+2 Jan 16:38:42 - Player not found: IWnCJlFRtd67sN-mWleV
+2 Jan 16:38:42 - Player not found: IWnCJlFRtd67sN-mWleV
+2 Jan 16:38:42 - Player not found: IWnCJlFRtd67sN-mWleV
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized 5CEy9xd1z-5hFFzyWleW
+Server received message: move object
+2 Jan 16:40:11 - New player has connected: 5CEy9xd1z-5hFFzyWleW
+2 Jan 16:40:11 - Player not found: 5CEy9xd1z-5hFFzyWleW
+2 Jan 16:40:11 - Player not found: 5CEy9xd1z-5hFFzyWleW
+2 Jan 16:40:11 - Player not found: 5CEy9xd1z-5hFFzyWleW
+2 Jan 16:40:11 - Player not found: 5CEy9xd1z-5hFFzyWleW
+2 Jan 16:40:11 - Player not found: 5CEy9xd1z-5hFFzyWleW
+2 Jan 16:40:11 - Player not found: 5CEy9xd1z-5hFFzyWleW
+2 Jan 16:40:11 - Player not found: 5CEy9xd1z-5hFFzyWleW
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (socket end)
+2 Jan 16:41:38 - Player has disconnected: IWnCJlFRtd67sN-mWleV
+info: handshake authorized xzkx6pmy9lbg2BynWleX
+info: handshake authorized GFO0hIk4t3npMEsuWleY
+2 Jan 16:42:56 - New player has connected: GFO0hIk4t3npMEsuWleY
+info: transport end (undefined)
+2 Jan 16:42:57 - Player has disconnected: GFO0hIk4t3npMEsuWleY
+info: transport end (socket end)
+2 Jan 16:45:39 - Player has disconnected: 5CEy9xd1z-5hFFzyWleW
+info: transport end (undefined)
+2 Jan 16:49:23 - Player has disconnected: 4kTmc_EsgugR-1amWleK
+info: handshake authorized l-d5ge800L70GA6UWleZ
+2 Jan 17:05:37 - New player has connected: l-d5ge800L70GA6UWleZ
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - New player has connected: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+2 Jan 17:06:44 - Player not found: EoJS5JyJVprgG0gNWlea
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized jBkQpINften3QEDzWleb
+2 Jan 17:07:07 - New player has connected: jBkQpINften3QEDzWleb
+2 Jan 17:07:07 - Player not found: jBkQpINften3QEDzWleb
+2 Jan 17:07:07 - Player not found: jBkQpINften3QEDzWleb
+2 Jan 17:07:07 - Player not found: jBkQpINften3QEDzWleb
+2 Jan 17:07:07 - Player not found: jBkQpINften3QEDzWleb
+2 Jan 17:07:07 - Player not found: jBkQpINften3QEDzWleb
+2 Jan 17:07:07 - Player not found: jBkQpINften3QEDzWleb
+2 Jan 17:07:07 - Player not found: jBkQpINften3QEDzWleb
+2 Jan 17:07:07 - Player not found: jBkQpINften3QEDzWleb
+2 Jan 17:07:07 - Player not found: jBkQpINften3QEDzWleb
+2 Jan 17:07:07 - Player not found: jBkQpINften3QEDzWleb
+2 Jan 17:07:07 - Player not found: jBkQpINften3QEDzWleb
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: handshake authorized HGEXc4hmx-tsVr_yWlec
+Server received message: move object
+2 Jan 17:07:25 - New player has connected: HGEXc4hmx-tsVr_yWlec
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (heartbeat timeout)
+2 Jan 17:07:38 - Player has disconnected: l-d5ge800L70GA6UWleZ
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 17:07:51 - Player has disconnected: HGEXc4hmx-tsVr_yWlec
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (socket close)
+2 Jan 17:08:42 - Player has disconnected: jBkQpINften3QEDzWleb
+Server received message: move object
+info: handshake authorized ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - New player has connected: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:49 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+2 Jan 17:08:50 - Player not found: ezVy1V64H-wVq2azWled
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (undefined)
+2 Jan 17:09:38 - Player has disconnected: EoJS5JyJVprgG0gNWlea
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+Server received message: move object
+info: transport end (socket end)
+2 Jan 17:10:43 - Player has disconnected: ezVy1V64H-wVq2azWled
+info: handshake authorized dWKqf0IPDuT8ZSMGWlee
+2 Jan 17:10:47 - New player has connected: dWKqf0IPDuT8ZSMGWlee
+2 Jan 17:10:47 - Player not found: dWKqf0IPDuT8ZSMGWlee
+2 Jan 17:10:47 - Player not found: dWKqf0IPDuT8ZSMGWlee
+2 Jan 17:10:47 - Player not found: dWKqf0IPDuT8ZSMGWlee
+2 Jan 17:10:47 - Player not found: dWKqf0IPDuT8ZSMGWlee
+2 Jan 17:10:47 - Player not found: dWKqf0IPDuT8ZSMGWlee
+2 Jan 17:10:47 - Player not found: dWKqf0IPDuT8ZSMGWlee
+2 Jan 17:10:47 - Player not found: dWKqf0IPDuT8ZSMGWlee
+2 Jan 17:10:47 - Player not found: dWKqf0IPDuT8ZSMGWlee
+2 Jan 17:10:47 - Player not found: dWKqf0IPDuT8ZSMGWlee
+2 Jan 17:10:47 - Player not found: dWKqf0IPDuT8ZSMGWlee
+2 Jan 17:10:47 - Player not found: dWKqf0IPDuT8ZSMGWlee
+info: transport end (socket end)
+2 Jan 17:11:03 - Player has disconnected: dWKqf0IPDuT8ZSMGWlee
+info: handshake authorized ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:39 - New player has connected: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+2 Jan 17:11:40 - Player not found: ihHxaRtCV9tuUnhvWlef
+info: transport end (undefined)
+2 Jan 17:11:53 - Player has disconnected: ihHxaRtCV9tuUnhvWlef
+info: handshake authorized U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - New player has connected: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+2 Jan 17:27:58 - Player not found: U4wtoxv-KiOxd0REWleg
+info: transport end (undefined)
+2 Jan 17:28:12 - Player has disconnected: U4wtoxv-KiOxd0REWleg
+info: handshake authorized g1hOwzRTGA_m5JX4Wleh
+2 Jan 17:31:07 - New player has connected: g1hOwzRTGA_m5JX4Wleh
+2 Jan 17:31:07 - Player not found: g1hOwzRTGA_m5JX4Wleh
+2 Jan 17:31:07 - Player not found: g1hOwzRTGA_m5JX4Wleh
+2 Jan 17:31:07 - Player not found: g1hOwzRTGA_m5JX4Wleh
+2 Jan 17:31:07 - Player not found: g1hOwzRTGA_m5JX4Wleh
+2 Jan 17:31:07 - Player not found: g1hOwzRTGA_m5JX4Wleh
+2 Jan 17:31:07 - Player not found: g1hOwzRTGA_m5JX4Wleh
+2 Jan 17:31:07 - Player not found: g1hOwzRTGA_m5JX4Wleh
+2 Jan 17:31:07 - Player not found: g1hOwzRTGA_m5JX4Wleh
+2 Jan 17:31:07 - Player not found: g1hOwzRTGA_m5JX4Wleh
+2 Jan 17:31:07 - Player not found: g1hOwzRTGA_m5JX4Wleh
+2 Jan 17:31:07 - Player not found: g1hOwzRTGA_m5JX4Wleh
+2 Jan 17:31:07 - Player not found: g1hOwzRTGA_m5JX4Wleh
+info: transport end (socket end)
+2 Jan 17:31:47 - Player has disconnected: g1hOwzRTGA_m5JX4Wleh
+info: handshake authorized YnhdoC6fAQx4g-zWWlei
+2 Jan 17:39:03 - New player has connected: YnhdoC6fAQx4g-zWWlei
+2 Jan 17:39:03 - Player not found: YnhdoC6fAQx4g-zWWlei
+2 Jan 17:39:03 - Player not found: YnhdoC6fAQx4g-zWWlei
+2 Jan 17:39:03 - Player not found: YnhdoC6fAQx4g-zWWlei
+2 Jan 17:39:03 - Player not found: YnhdoC6fAQx4g-zWWlei
+2 Jan 17:39:03 - Player not found: YnhdoC6fAQx4g-zWWlei
+2 Jan 17:39:03 - Player not found: YnhdoC6fAQx4g-zWWlei
+2 Jan 17:39:03 - Player not found: YnhdoC6fAQx4g-zWWlei
+2 Jan 17:39:03 - Player not found: YnhdoC6fAQx4g-zWWlei
+2 Jan 17:39:03 - Player not found: YnhdoC6fAQx4g-zWWlei
+2 Jan 17:39:03 - Player not found: YnhdoC6fAQx4g-zWWlei
+info: transport end (undefined)
+2 Jan 17:48:49 - Player has disconnected: YnhdoC6fAQx4g-zWWlei
+info: handshake authorized Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - New player has connected: Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - Player not found: Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - Player not found: Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - Player not found: Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - Player not found: Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - Player not found: Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - Player not found: Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - Player not found: Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - Player not found: Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - Player not found: Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - Player not found: Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - Player not found: Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - Player not found: Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - Player not found: Sj-mmTBIrzsp_rEGWlej
+2 Jan 17:48:50 - Player not found: Sj-mmTBIrzsp_rEGWlej
+info: transport end (undefined)
+2 Jan 17:48:55 - Player has disconnected: Sj-mmTBIrzsp_rEGWlej
+info: handshake authorized yoBvbnR1PSj4sKpWWlek
+2 Jan 18:10:15 - New player has connected: yoBvbnR1PSj4sKpWWlek
+2 Jan 18:10:15 - Player not found: yoBvbnR1PSj4sKpWWlek
+2 Jan 18:10:15 - Player not found: yoBvbnR1PSj4sKpWWlek
+2 Jan 18:10:15 - Player not found: yoBvbnR1PSj4sKpWWlek
+2 Jan 18:10:15 - Player not found: yoBvbnR1PSj4sKpWWlek
+2 Jan 18:10:15 - Player not found: yoBvbnR1PSj4sKpWWlek
+2 Jan 18:10:15 - Player not found: yoBvbnR1PSj4sKpWWlek
+2 Jan 18:10:15 - Player not found: yoBvbnR1PSj4sKpWWlek
+2 Jan 18:10:15 - Player not found: yoBvbnR1PSj4sKpWWlek
+2 Jan 18:10:15 - Player not found: yoBvbnR1PSj4sKpWWlek
+info: transport end (undefined)
+2 Jan 18:24:38 - Player has disconnected: yoBvbnR1PSj4sKpWWlek
+info: handshake authorized XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - New player has connected: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+2 Jan 18:32:55 - Player not found: XMJRuut-9Qb4l5_0Wlel
+info: transport end (undefined)
+2 Jan 18:33:31 - Player has disconnected: XMJRuut-9Qb4l5_0Wlel
+info: handshake authorized LGk2Jjz7_b0nlwbPWlem
+2 Jan 18:36:44 - New player has connected: LGk2Jjz7_b0nlwbPWlem
+2 Jan 18:36:44 - Player not found: LGk2Jjz7_b0nlwbPWlem
+info: transport end (undefined)
+2 Jan 18:36:49 - Player has disconnected: LGk2Jjz7_b0nlwbPWlem
